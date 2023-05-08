@@ -9,8 +9,8 @@ Este conjunto de programas serve à demonstração da manipulação de erros na 
 Os arquivos fonte deste repositório, cada um demonstrando um exemplo, estão organizados de acordo com a seguinte estrutura:
 
 ```
-+─errors            ---> Diretório com exemplo envolvendo a criação de variáveis de erros
-  ├─── concat       ---> Diretório com exemplos utilizando generics
++─errors            ---> Nome do diretório do projeto
+  ├─── concat       ---> Diretório com exemplo envolvendo a criação de variáveis de erros
   ├─── division     ---> Diretório com exemplo envolvendo a criação de tipos customizados de erro
   ├─── division-rem ---> Diretório com exemplo envolvendo a criação de variáveis de erros
   ├─── request      ---> Diretório com exemplo envolvendo manipulação de múltiplos erros
