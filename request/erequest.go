@@ -1,3 +1,8 @@
+// Example to demonstrate handling multiple errors
+//
+// Author: Everton Cavalcante (everton.cavalcante@ufrn.br)
+// Date: May 8, 2023
+
 package main
 
 import (

@@ -1,3 +1,8 @@
+// Example to demonstrate the creation of custom errors as (global) variables
+//
+// Author: Everton Cavalcante (everton.cavalcante@ufrn.br)
+// Date: May 8, 2023
+
 package main
 
 import (
